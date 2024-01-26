@@ -1,8 +1,8 @@
 # Protips for Navigating Unresponsive SMEs in a Tech Environment
 
-If you are responsible for creating accurate and user-friendly documentation, establish effective communication with various specialists, senior coworkers, and Subject Matter Experts (SMEs).
+If you are responsible for creating accurate and user-friendly documentation, make sure that your way of communication works well with various specialists, senior coworkers, and Subject Matter Experts (SMEs).
 
-Some of these strategies can be a game changer for Junior Tech Writers when they are dealing with unresponsive SMEs.
+Some of these strategies can be a game changer for Junior Tech Writers when they are dealing with SMEs who do not reply.
 
 ## Start with a gentle reminder.
 
@@ -18,7 +18,7 @@ Show you are more than just a team member. Invite your SME to a coffee break or 
 
 ## Prepare yourself.
 
-Save your SME's precious time and avoid random questions. Before any meeting, prepare a scenario of relevant and interesting questions. This method can enhance productivity and impact a lot the outcome.
+Save your SME's precious time and avoid unexpected questions. Before any meeting, prepare a scenario of relevant and interesting questions. This method can make better productivity and affect a lot the result.
 
 ## Be flexible with communication tools.
 
