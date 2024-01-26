@@ -1,35 +1,35 @@
 # Protips for Navigating Unresponsive SMEs in a Tech Environment
 
-If the responsibility for the creation of accurate and user-friendly documentation lies with you, establishing effective communication with various specialists, senior colleagues, and Subject Matter Experts (SMEs) is deemed essential.
+If you are responsible for creating accurate and user-friendly documentation, make sure that your way of communication works well with various specialists, senior coworkers, and Subject Matter Experts (SMEs).
 
-I believe that some of the strategies listed below might constitute a game changer for Junior Tech Writers when dealing with unresponsive SMEs.
+Some of these strategies can be a game changer for Junior Tech Writers when they are dealing with SMEs who do not reply.
 
-## Starting with a gentle reminder can often initiate the communication process.
+## Start with a gentle reminder.
 
-Being patient and sending a friendly reminder to your SME with a suggested meeting date and a list of topics to focus on can be a constructive approach.
+Be patient and send a friendly reminder to your SME to suggest a new meeting date and a list of topics to focus. This method can start the communication process.
 
-## Paying an in-person visit could potentially facilitate more direct communication.
+## Pay an in-person visit.
 
-Considering a visit to your SME's office for a face-to-face discussion to schedule a one-to-one call or a proper meeting may yield favorable results.
+Consider a visit to your SME's office for a face-to-face discussion. Plan a one-on-one call or a meeting to get results. Direct communication can make it easier.
 
-## Focusing on building a positive relationship is paramount.
+## Focus on building a positive relationship.
 
-Showing you are more than just a team member by inviting your SME to spontaneous coffee breaks or casual lunches can foster a stronger connection.
+Show you are more than just a team member. Invite your SME to a coffee break or a casual lunch. This gesture can encourage a stronger connection.
 
-## Preparing yourself adequately can significantly impact the outcome.
+## Prepare yourself.
 
-Saving your SME's precious time by avoiding a random Q&A session is advisable. Before any meeting, preparing a scenario composed of only relevant and highly engaging questions can enhance productivity.
+Save your SME's precious time and avoid unexpected questions. Before any meeting, prepare a scenario of relevant and interesting questions. This method can make better productivity and affect a lot the result.
 
-## Being flexible with communication tools is essential.
+## Be flexible with communication tools.
 
-Focusing on the SME's preferred communication channel, whether phone, e-mail, or chat, might foster effective collaboration.
+Find the SME's preferred communication channel (phone, e-mail, chat). This tool can encourage effective collaboration.
 
-## Offering assistance can demonstrate your commitment.
+## Show your dedication.
 
-Helping your SME with time-consuming tasks like proofreading can demonstrate that your are being percived as valuable team member.
+Help your SME with tasks that require lots of time and for example, become the SME's proofreader. Show that you are a valuable team member.
 
-## Getting in touch with coworkers to share knowledge can be beneficial.
+## Get in touch with coworkers and share knowledge.
 
-Talking to other team members who might have the same questions and trying to gather as much info from your coworkers instead of interviewing your SME again and again can streamline the process.
+Talk to other coworkers who might have had the same questions. Collect information from your coworkers and limit questions to your SME.
 
-In the tech-focused world, interpersonal communication remains quite powerful. Utilizing your soft skills wisely can build positive relationships and create a collaborative working environment.
+In the world of technology interpersonal communication is very important. Use your interpersonal skills to build positive relationships and create a collaborative working environment.
